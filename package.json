@@ -1,0 +1,8 @@
+{
+  "name": "create-morph-app",
+  "version": "0.7.1",
+  "bin": "./bin/cli.js",
+  "dependencies": {
+    "tree-kill": "^1.2.2"
+  }
+}
